@@ -243,3 +243,4 @@ class ExpenseService:
         connection.close()
 
         return summary
+    
