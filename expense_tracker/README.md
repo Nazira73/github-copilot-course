@@ -24,7 +24,7 @@ Before running the application, ensure the following software is installed:
 ## Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nazira73/github-copilot-course.git
 cd expense_tracker
 ```
 
@@ -35,15 +35,15 @@ cd expense_tracker
 ### Windows
 
 ```bash
-python -m venv venv
-venv\Scripts\activate
+python -m venv expense_tracker
+expense_tracker\Scripts\activate
 ```
 
 ### macOS / Linux
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv expense_tracker
+source expense_tracker/bin/activate
 ```
 
 ---
